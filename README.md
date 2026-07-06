@@ -29,7 +29,7 @@ hamza-yousaf@github:~$ cat general.txt
 ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 hamza-yousaf@github:~$ ls projects
-FarmLite    CNN    StudySprout   Planetary-Gravity-Simulation    BMW-M5-Configurator    private
+FarmLite    Garbage-Classification    StudySprout   Planetary-Gravity-Sim    private
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
