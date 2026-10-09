@@ -21,10 +21,18 @@ hamza-yousaf@github:~$ cat general.txt
   Name................: Hamza Yousaf
   Institution.........: Toronto Metropolitan University (BSc Hons)
   Major...............: Computer Science (Co-op)
+  Year of Study.......: Third year
+  Expected Grad.......: April 2028 (or April 2029 upon completion of 4 work terms as per TMU's Co-op Program)
 
-  Languages...........: TypeScript, JavaScript, Python, Java, C
+  Languages...........: TypeScript, JavaScript, Python, Java, C, C++
   Frameworks..........: React.js, Next.js, Node.js, Express.js, FastAPI
   Libraries...........: NumPy, TensorFlow, OpenCV
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+hamza-yousaf@github:~$ cat experience.txt
+  Expense Trend.......: Software Engineering Intern (July 2026 - Sept 2026)
+  Code Ninjas.........: Coding Instructor Volunteer (July 2023 - July 2023)
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
@@ -43,7 +51,7 @@ hamza-yousaf@github:~/interests$ cat personal.txt
 hamza-yousaf@github:~/interests$ cat technical.txt
   - Full-stack Developemnt
   - Machine Learning
-  - Embedded Systems
+  - Low Level Systems
   - Arduino
   - Game Development
 hamza-yousaf@github:~/interests$ cd ../
