@@ -49,7 +49,7 @@ hamza-yousaf@github:~/interests$ cat personal.txt
   - Travel
   - Escape Rooms
 hamza-yousaf@github:~/interests$ cat technical.txt
-  - Full-stack Developemnt
+  - Full-stack Development
   - Machine Learning
   - Low Level Systems
   - Arduino
